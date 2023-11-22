@@ -1,0 +1,3 @@
+-- insert into gender(id, created_by, created_date, deleted, updated_by, updated_date, name_en, name_ru, name_uz)
+-- values (1, 'migration', now(), false, null, now(), 'male', 'мужской', 'erkak'),
+--        (2, 'migration', now(), false, null, now(), 'female', 'женский', 'ayol');
